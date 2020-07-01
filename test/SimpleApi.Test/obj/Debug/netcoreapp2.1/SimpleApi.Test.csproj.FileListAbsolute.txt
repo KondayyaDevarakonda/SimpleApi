@@ -1,0 +1,17 @@
+C:\DotNetAzureCICD\test\SimpleApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\DotNetAzureCICD\test\SimpleApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\DotNetAzureCICD\test\SimpleApi.Test\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\DotNetAzureCICD\test\SimpleApi.Test\bin\Debug\netcoreapp2.1\SimpleApi.Test.deps.json
+C:\DotNetAzureCICD\test\SimpleApi.Test\bin\Debug\netcoreapp2.1\SimpleApi.Test.runtimeconfig.json
+C:\DotNetAzureCICD\test\SimpleApi.Test\bin\Debug\netcoreapp2.1\SimpleApi.Test.runtimeconfig.dev.json
+C:\DotNetAzureCICD\test\SimpleApi.Test\bin\Debug\netcoreapp2.1\SimpleApi.Test.dll
+C:\DotNetAzureCICD\test\SimpleApi.Test\bin\Debug\netcoreapp2.1\SimpleApi.Test.pdb
+C:\DotNetAzureCICD\test\SimpleApi.Test\obj\Debug\netcoreapp2.1\SimpleApi.Test.csprojAssemblyReference.cache
+C:\DotNetAzureCICD\test\SimpleApi.Test\obj\Debug\netcoreapp2.1\SimpleApi.Test.csproj.CoreCompileInputs.cache
+C:\DotNetAzureCICD\test\SimpleApi.Test\obj\Debug\netcoreapp2.1\SimpleApi.Test.AssemblyInfoInputs.cache
+C:\DotNetAzureCICD\test\SimpleApi.Test\obj\Debug\netcoreapp2.1\SimpleApi.Test.AssemblyInfo.cs
+C:\DotNetAzureCICD\test\SimpleApi.Test\obj\Debug\netcoreapp2.1\SimpleApi.Test.dll
+C:\DotNetAzureCICD\test\SimpleApi.Test\obj\Debug\netcoreapp2.1\SimpleApi.Test.pdb
+C:\DotNetAzureCICD\test\SimpleApi.Test\bin\Debug\netcoreapp2.1\SimpleApi.dll
+C:\DotNetAzureCICD\test\SimpleApi.Test\bin\Debug\netcoreapp2.1\SimpleApi.pdb
+C:\DotNetAzureCICD\test\SimpleApi.Test\obj\Debug\netcoreapp2.1\SimpleApi.Test.csproj.CopyComplete
