@@ -18,7 +18,7 @@ namespace SimpleApi.Test
         [Fact]
         public void WhenValueDoesNotMatchWithReturnValue() {
             var returnValue = vc.Get(6);
-            Assert.Equal("Value returned is : 5", returnValue.Value);
+            Assert.Equal("Value returned is : 6", returnValue.Value);
         }
 
         [Fact]
