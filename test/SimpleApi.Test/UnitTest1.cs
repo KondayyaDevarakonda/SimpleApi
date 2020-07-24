@@ -10,7 +10,13 @@ namespace SimpleApi.Test
         ValuesController vc = new ValuesController();
 
         [Fact]
-        public void GetReturnsMyValue() {
+        public void WhenValueMatchWithReturnValue() {
+            var returnValue = vc.Get(5);
+            Assert.Equal("Value returned is : 5", returnValue.Value);
+        }
+
+        [Fact]
+        public void WhenValueDoesNotMatchWithReturnValue() {
             var returnValue = vc.Get(6);
             Assert.Equal("Value returned is : 5", returnValue.Value);
         }
