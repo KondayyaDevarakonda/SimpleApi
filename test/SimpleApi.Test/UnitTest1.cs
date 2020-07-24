@@ -11,7 +11,7 @@ namespace SimpleApi.Test
 
         [Fact]
         public void GetReturnsMyValue() {
-            var returnValue = vc.Get(5);
+            var returnValue = vc.Get(6);
             Assert.Equal("Value returned is : 5", returnValue.Value);
         }
 
